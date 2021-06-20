@@ -1,0 +1,33 @@
+body{
+    background: black;
+    color: #fff;
+}
+
+
+
+h1{
+    font-size: 100px;
+    color: brown;
+    font-family: 'Noto Serif', serif;
+    font-weight:100 ;
+    text-align: left;
+    text-decoration: underline;
+    border: 2px solid green;
+}
+
+h2{
+    border: 5px solid blue;
+    padding: 50px 100px;
+    margin-bottom: 100px;
+}
+
+p{
+    font-size: 30px;
+    border: 2px dashed #fff;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background: blue;
+}
